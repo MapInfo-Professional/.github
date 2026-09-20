@@ -2,7 +2,7 @@
 
 ## At a Glance
 
-![MapInfo Professional](https://www.basarsoft.com.tr/wp-content/uploads/2020/10/mapinfo-pro-icerik-gorsel-001.png)
+![MapInfo Professional](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWHDbPhoDZQrjxLPFCMp741VT53GiM4bK8M25DJdLQCiWvzV6_CyqDNuQq&s=10)
 | Feature | What It Means |
 |--------|----------------|
 | **One job, done well** | MapInfo Professional focuses on table mapping. Every panel supports a real decision. |
